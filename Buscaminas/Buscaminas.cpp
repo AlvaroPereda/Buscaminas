@@ -1,4 +1,3 @@
-//Alvaro Pereda Sanchez y Pedro Zuñeda Diego. Buscaminas.cpp
 #include <iostream>
 #include <vector>
 #include <string>
