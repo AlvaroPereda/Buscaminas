@@ -1,4 +1,3 @@
-//Alvaro Pereda Sanchez y Pedro Zuñeda Diego. Buscaminas.h
 #ifndef BUSCAMINAS_H
 #define BUSCAMINAS_H
 
