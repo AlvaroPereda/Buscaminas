@@ -1,4 +1,3 @@
-//Alvaro Pereda Sanchez y Pedro Zuñeda Diego. main.cpp
 #include <iostream>
 #include <string>
 #include <vector>
